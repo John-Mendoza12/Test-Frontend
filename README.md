@@ -52,3 +52,9 @@ export default tseslint.config({
   },
 })
 ```
+*******
+TUVE UNA CONFUSIÓN CON LA IMAGEN Y EL PUNTO UNO, LO PODRIAN REVISAR EN /modulos y /course porfavor para que puedan ver la diferencia y la equivocacion que tuve, gracias.
+*******
+Puedes ver el proyecto en producción en el siguiente enlace:
+
+🔗 [Test Frontend en Vercel](https://curso-modulos-gkizchirm-john-mendozas-projects.vercel.app)
